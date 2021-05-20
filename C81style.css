@@ -1,0 +1,20 @@
+
+h1
+{
+	color: rgb(0, 255, 255); 
+	font-size: 40px;
+}
+.body_backgorund { 
+	background-image:url("download.jpeg");
+	background-position:center;
+	background-size:cover; 
+
+}
+
+#canvasismine{
+
+	border-width:10px;
+	background-color: rgb(9, 255, 0);
+	border-style:ridge;
+
+}
